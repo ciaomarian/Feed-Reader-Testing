@@ -48,8 +48,8 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 21. Write a README file detailing all steps required to successfully run the application. If you have added additional tests (for Udacious Test Coverage),  provide documentation for what these future features are and what the tests are checking for.
 
 
-# Credits..
+## Credits..
 
-A heatfelt thanks to Matthew Cranford for his wonderful blog and project walkthroughs. I followed him step by step to learn this process thourougly. 
-Also to Rodrick Bloomfield, for his feedreader Live Walkthrough for Fend Students.
+A heartfelt thanks to Matthew Cranford for his wonderful blog and project walkthroughs. I followed him step by step to learn this process thoroughly. 
+Also to Rodrick Bloomfield, for his feedreader Live Walkthrough for FEND Students.
 Thank you to Udacity Mentors on Slack for catching my errors!
