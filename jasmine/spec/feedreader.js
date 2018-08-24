@@ -63,7 +63,7 @@ $(function() {
  
          it('is hidden', function() {
             const body = document.querySelector('body');
-            expect(body.classList.contains('menu-hidden')).tobe(true);
+            expect(body.classList.contains('menu-hidden')).toBe(true);
         });   
 
          /* TODO: Write a test that ensures the menu changes
@@ -78,9 +78,9 @@ $(function() {
             const menu = document.querySelector('.menu-icon-link');
 
             menu.click();
-            expect(body.classList.contains('menu-hidden')).tobe(false);
+            expect(body.classList.contains('menu-hidden')).toBe(false);
             menu.click();
-            expect(body.classList.contains('menu-hidden')).tobe(true);
+            expect(body.classList.contains('menu-hidden')).toBe(true);
         }); 
     });
 
