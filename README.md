@@ -4,7 +4,7 @@ This repository contains the Reader Testing Project for the Udacity Front-End We
 
 ## Running instructions
 
-Choose one of the following options, and scroll to the bottom of the page to see the output from the Jasmine tests.
+Choose one of the following options, open the application by clicking the html file, and scroll to the bottom of the displayed browser page to see the output from the Jasmine tests.
 
 ### Option 1 - run without a server.
 
