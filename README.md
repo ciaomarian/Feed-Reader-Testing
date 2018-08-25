@@ -17,9 +17,9 @@ You can view an online version of this project at
 
 ### Option 3 - server
 
-Download the files and place in the document root directory of your preferred server.# Project Overview
+Download the files and place in the document root directory of your preferred server.
 
-## Credits..
+## Credits
 
 A heartfelt thanks to Matthew Cranford for his wonderful blog and project walkthroughs. I followed him step by step to learn this process thoroughly. 
 Also to Rodrick Bloomfield, for his feedreader Live Walkthrough for FEND Students.
