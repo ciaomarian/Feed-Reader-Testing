@@ -1,4 +1,32 @@
-# Project Overview
+# Udacity Feed Reader Testing Project
+
+This repository contains the Reader Testing Project for the Udacity Front-End Web Developer Nanodegree.
+
+## Running instructions
+
+Choose one of the following options, and scroll to the bottom of the page to see the output from the Jasmine tests.
+
+### Option 1 - run without a server.
+
+Simply download the project, double-click on `index.html` and browse locally,since there is no associated backend server.
+
+### Option 2 - Github pages
+
+You can view an online version of this project at
+[https://github.com/ciaomarian/Feed-Reader-Testing](https://github.com/ciaomarian/Feed-Reader-Testing)
+
+### Option 3 - server
+
+Download the files and place in the document root directory of your preferred server.# Project Overview
+
+## Credits..
+
+A heartfelt thanks to Matthew Cranford for his wonderful blog and project walkthroughs. I followed him step by step to learn this process thoroughly. 
+Also to Rodrick Bloomfield, for his feedreader Live Walkthrough for FEND Students.
+Thank you to Udacity Mentors on Slack for catching my errors!
+
+
+## Project Overview
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
 
@@ -47,9 +75,3 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 20. When complete - all of your tests should pass. 
 21. Write a README file detailing all steps required to successfully run the application. If you have added additional tests (for Udacious Test Coverage),  provide documentation for what these future features are and what the tests are checking for.
 
-
-## Credits..
-
-A heartfelt thanks to Matthew Cranford for his wonderful blog and project walkthroughs. I followed him step by step to learn this process thoroughly. 
-Also to Rodrick Bloomfield, for his feedreader Live Walkthrough for FEND Students.
-Thank you to Udacity Mentors on Slack for catching my errors!
